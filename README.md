@@ -1,4 +1,6 @@
-2SSP – Domain-Specific LLM Pruning Framework (Modified Version)
+## Judge Small Language Models ##
+
+2SSP – Domain-Specific LLM Pruning Framework 
 
 This repository is an extended and customized version of the original
 🔗 2SSP framework: https://github.com/FabrizioSandri/2SSP
