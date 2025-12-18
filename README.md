@@ -69,7 +69,16 @@ The notebook "Llama Pruning notebook.ipynb" contains:
 - Computing perplexity on the domain dataset
 - Saving and analyzing pruning results
 
+==============================
+## Mistral Qwen PRUNING NOTEBOOK ##
+==============================
 
+The notebook "Mistral Qwen Pruning notebook.ipynb" contains:
+- Loading of LLaMA-2, Mistral Qwen models from HuggingFace
+- Tokenization of custom datasets
+- Running 2SSP pruning at 25%, 37.5%, and 50% sparsity
+- Computing perplexity on the domain dataset
+- Saving and analyzing pruning results
 ==============================
 ## PRUNING COMMANDS ##
 ==============================
